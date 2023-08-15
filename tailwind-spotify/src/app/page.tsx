@@ -172,6 +172,103 @@ export default function Home() {
               </button>
             </a>
           </div>
+
+          <h2 className="font-semibold text-2xl mt-10">
+            Made for Rafael Santos
+          </h2>
+
+          <div className="grid grid-cols-8 gap-4 mt-4">
+            <a
+              href="#"
+              className="bg-white/5 p-3 rounded-md flex flex-col gap-2 hover:bg-white/10"
+            >
+              <Image
+                src="/images/album.jpg"
+                className="w-full"
+                width={120}
+                height={120}
+                alt={
+                  "Metropolis, Pt.2: Scenes From a Memory by Dream Theater Album  Cover"
+                }
+              />
+              <strong className="font-semibold">Daily Mix 1</strong>
+              <span className="text-sm text-zinc-400">
+                Testament, Helloween, Gotye, and more
+              </span>
+            </a>
+            <a
+              href="#"
+              className="bg-white/5 p-3 rounded-md flex flex-col gap-2 hover:bg-white/10"
+            >
+              <Image
+                src="/images/album.jpg"
+                className="w-full"
+                width={120}
+                height={120}
+                alt={
+                  "Metropolis, Pt.2: Scenes From a Memory by Dream Theater Album  Cover"
+                }
+              />
+              <strong className="font-semibold">Daily Mix 1</strong>
+              <span className="text-sm text-zinc-400">
+                Testament, Helloween, Gotye, and more
+              </span>
+            </a>
+            <a
+              href="#"
+              className="bg-white/5 p-3 rounded-md flex flex-col gap-2 hover:bg-white/10"
+            >
+              <Image
+                src="/images/album.jpg"
+                className="w-full"
+                width={120}
+                height={120}
+                alt={
+                  "Metropolis, Pt.2: Scenes From a Memory by Dream Theater Album  Cover"
+                }
+              />
+              <strong className="font-semibold">Daily Mix 1</strong>
+              <span className="text-sm text-zinc-400">
+                Testament, Helloween, Gotye, and more
+              </span>
+            </a>
+            <a
+              href="#"
+              className="bg-white/5 p-3 rounded-md flex flex-col gap-2 hover:bg-white/10"
+            >
+              <Image
+                src="/images/album.jpg"
+                className="w-full"
+                width={120}
+                height={120}
+                alt={
+                  "Metropolis, Pt.2: Scenes From a Memory by Dream Theater Album  Cover"
+                }
+              />
+              <strong className="font-semibold">Daily Mix 1</strong>
+              <span className="text-sm text-zinc-400">
+                Testament, Helloween, Gotye, and more
+              </span>
+            </a>
+            <a
+              href="#"
+              className="bg-white/5 p-3 rounded-md flex flex-col gap-2 hover:bg-white/10"
+            >
+              <Image
+                src="/images/album.jpg"
+                className="w-full"
+                width={120}
+                height={120}
+                alt={
+                  "Metropolis, Pt.2: Scenes From a Memory by Dream Theater Album  Cover"
+                }
+              />
+              <strong className="font-semibold">Daily Mix 1</strong>
+              <span className="text-sm text-zinc-400">
+                Testament, Helloween, Gotye, and more
+              </span>
+            </a>
+          </div>
         </main>
       </div>
       <footer className="bg-zinc-800 border-t border-zinc-700 p-6 ">
